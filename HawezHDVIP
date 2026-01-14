@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/9047de06-b906-44e6-8ea9-ebf07c18ea77.png" group-title="Kurdish - کوردی", NRT News ᴴᴰ
-http://arabitv5.com:8000/live/baseeeeeeemhh5/8uuMt7qa7eAF/33887.ts
+https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="Kurdish - کوردی", NRT 2 ᴴᴰ
 http://arabitv5.com:8000/baseeeeeeemhh5/8uuMt7qa7eAF/33888
