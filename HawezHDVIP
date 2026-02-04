@@ -597,7 +597,7 @@ https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8
 http://hawez@142.132.133.190:1935/live/Sportchek-ld-HawezHD/HawezHD.m3u8?checkedby:hawezHD
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kfU3d1n.jpeg" group-title="SPORTS - وەرزش", AVA Sport ᴴᴰ
-http://109.123.245.192/Avasport/index.m3u8
+http://2.57.214.72:2095/Arjc0WCSzNRt_180488/KILxRwQfON9tBs/358221?token=yHXUHH.X.y.X.ydHyzzfzHy.X.y.IQ.ts.21ad7b2f58ad4c016dbbdbbe596adbc69e11cce4b0546199b4bfd6d87b4716b5...sh
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kfU3d1n.jpeg" group-title="SPORTS - وەرزش", FIFA Plus ᴴᴰ
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
@@ -2178,22 +2178,22 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&checke
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/XvMj37c9/48baf2c5_d0b7_4989_9ff1_5dac74ad87a9.png" group-title="beIN SPORTS (Auto)", beIN SPORTS 1 ᴴᴰ
-https://balance.footballii.ir/hls2/bein1.m3u8
+http://45.155.226.204:80/375509625021/697b02f628340.16012/329100?token=yaaczyd.faUaf.X.bUda.ydHbayXycy.X.y.IQ.ts.baf86d40475f002ce877cf1531393316de3f1cd6b9b8ce2c745a8d1fb9f751b9...bHVrYXR2Lm5ldDo4ODgw
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/wjRqSsJW/917ab864_9988_4298_86ac_947b3c61de28.png" group-title="beIN SPORTS (Auto)", beIN SPORTS 2 ᴴᴰ
-https://balance.footballii.ir/hls2/bein2.m3u8
+http://45.155.90.37:80/375509625021/697b02f628340.16012/358250?token=yaaczyd.yzXyUU.X.UfXdUy.ydHbayXydX.X.y.IQ.ts.d21bce39cc6e6d9eaa0777fc75c5ee399524e8e81855e1ff8ac2e25366b9b3d7...bHVrYXR2Lm5ldDo4ODgw
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/bwSyK2bm/a504db3d_4bbd_41a7_ad23_ead412171f05.png" group-title="beIN SPORTS (Auto)", beIN SPORTS 3 ᴴᴰ
-https://balance.footballii.ir/hls2/bein3.m3u8
+http://45.155.90.37:80/375509625021/697b02f628340.16012/157664?token=yaaczyd.UbdXUc.X.fzzzHUz.ydHbayXyzd.X.y.IQ.ts.e27f3dcebc31c2133066925682705dc108666ec6de0ab3cda42a8e589533af4d...bHVrYXR2Lm5ldDo4ODgw
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/Vk0f3bM4/2059f949_a5b6_406a_954f_7f8f14c3c152.png" group-title="beIN SPORTS (Auto)", beIN SPORTS 4 ᴴᴰ
-https://balance.footballii.ir/hls2/bein4.m3u8
+http://45.155.90.37:80/375509625021/697b02f628340.16012/157662?token=yaaczyd.daHcbz.X.zycbyf.ydHbayXayU.X.y.IQ.ts.f3bb322d9be0f2a8897afc0ea573b654be7572c959ea670cd061d9286a4eb163...bHVrYXR2Lm5ldDo4ODgw
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/BnPSd1DM/2b40d033_d241_47d4_a26a_8a181e5c2c95.png" group-title="beIN SPORTS (Auto)", beIN SPORTS 5 ᴴᴰ
-https://balance.footballii.ir/hls2/bein5.m3u8
+http://103.163.132.254:80/375509625021/697b02f628340.16012/546608?token=yaaczyd.adfaHf.X.fcfXdc.ydHbayXafX.X.y.IQ.ts.15b4aa2c6e06933ac343b08a0e765b66ef874441970aa009287a215542bc5baa...bHVrYXR2Lm5ldDo4ODgw
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kfU3d1n.jpeg" group-title="beIN SPORTS (Auto)", beIN SPORTS 6 ᴴᴰ
-https://balance.footballii.ir/hls2/bein6.m3u8
+http://103.163.132.254:80/375509625021/697b02f628340.16012/546609?token=yaaczyd.UzzHHX.X.fcfXdz.ydHbayXaUd.X.y.IQ.ts.85d75f91dd58c3f677de1b944f5ff0b2d0393c3a5b2015a497b777cac0b93b99...bHVrYXR2Lm5ldDo4ODgw
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kfU3d1n.jpeg" group-title="beIN SPORTS (Auto)", beIN SPORTS 7 ᴴᴰ
 https://balance.footballii.ir/hls2/bein7.m3u8
@@ -2231,80 +2231,26 @@ https://py.dencreak.com/bn_g_hd8.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="beIN SPORTS (Auto)", beIN SPORTS 9ᴴᴰ backup
 https://py.dencreak.com/bn_g_hd9.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="beIN SPORTS (G)", bein Sports 1ᴴᴰ
-https://py.dencreak.com/bn_g_hd1.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="beIN SPORTS (G)", beIN Sports 2ᴴᴰ
-https://py.dencreak.com/bn_g_hd2.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="beIN SPORTS (G)", beIN Sports 3ᴴᴰ
-https://py.dencreak.com/bn_g_hd3.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="beIN SPORTS (G)", beIN Sports 4ᴴᴰ
-https://py.dencreak.com/bn_g_hd4.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="beIN SPORTS (G)", beIN Sports 5ᴴᴰ
-https://py.dencreak.com/bn_g_hd5.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="beIN SPORTS (G)", beIN Sports 6ᴴᴰ
-https://py.dencreak.com/bn_g_hd6.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="beIN SPORTS (G)", beIN Sports 7ᴴᴰ
-https://py.dencreak.com/bn_g_hd7.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="beIN SPORTS (G)", beIN Sports 8ᴴᴰ
-https://py.dencreak.com/bn_g_hd8.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="beIN SPORTS (G)", beIN Sports 9ᴴᴰ
-https://py.dencreak.com/bn_g_hd9.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="beIN SPORTS (👑 Crown)", beIN Sports 1ᴴᴰ
-https://wo.cma.footballii.ir/90live/token/h2LtLzlWCQRniZWUfH6X5g/1766614497/bein1_src.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="beIN SPORTS (👑 Crown)", beIN Sports 2ᴴᴰ
-https://wo.cma.footballii.ir/90live/token/h2LtLzlWCQRniZWUfH6X5g/1766614497/bein2_src.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="beIN SPORTS (👑 Crown)", beIN Sports 3ᴴᴰ
-https://wo.cma.footballii.ir/90live/token/h2LtLzlWCQRniZWUfH6X5g/1766614497/bein3_src.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="beIN SPORTS (👑 Crown)", beIN Sports 4ᴴᴰ
-https://wo.cma.footballii.ir/90live/token/h2LtLzlWCQRniZWUfH6X5g/1766614497/bein4_src.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="beIN SPORTS (👑 Crown)", beIN Sports 5ᴴᴰ
-https://wo.cma.footballii.ir/90live/token/h2LtLzlWCQRniZWUfH6X5g/1766614497/bein5_src.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="beIN SPORTS (👑 Crown)", beIN Sports 6ᴴᴰ
-https://wo.cma.footballii.ir/90live/token/h2LtLzlWCQRniZWUfH6X5g/1766614497/bein6_src.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="beIN SPORTS (👑 Crown)", beIN Sports 7ᴴᴰ
-https://wo.cma.footballii.ir/90live/token/h2LtLzlWCQRniZWUfH6X5g/1766614497/bein7_src.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="beIN SPORTS (👑 Crown)", beIN Sports 8ᴴᴰ
-https://wo.cma.footballii.ir/90live/token/h2LtLzlWCQRniZWUfH6X5g/1766614497/bein8_src.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="beIN SPORTS (👑 Crown)", beIN Sports 9ᴴᴰ
-https://wo.cma.footballii.ir/90live/token/h2LtLzlWCQRniZWUfH6X5g/1766614497/bein9_src.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="Alwan Sports", Alwan Sports 1 ᴴᴰ
-https://py.dencreak.com/alwan_hd1.m3u8
+http://45.155.226.204:80/375509625021/697b02f628340.16012/550424?token=yaaczyd.adfXb.X.yXUay.ydHbayXada.X.y.IQ.ts.1216c4d2b4331228f03286c5d1a8c7926d9cfed37c4fdfc81d80086f10d05268...bHVrYXR2Lm5ldDo4ODgw
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="Alwan Sports", Alwan Sports 2 ᴴᴰ
-https://py.dencreak.com/alwan_hd2.m3u8
+http://103.163.132.254:80/375509625021/697b02f628340.16012/550425?token=yaaczyd.bUacU.X.bcydH.ydHbayXazy.X.y.IQ.ts.28778fbf751b65b5c4e9f9695a5ad1e909c8b1851d5955cd35c097bc01ed8bae...bHVrYXR2Lm5ldDo4ODgw
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="Alwan Sports", Alwan Sports 3 ᴴᴰ
-https://py.dencreak.com/alwan_hd3.m3u8
+http://103.163.132.254:80/375509625021/697b02f628340.16012/550426?token=yaaczyd.fHdda.X.bcHXH.ydHbayXfXz.X.y.IQ.ts.966996cd6f22e7e557c487b90be21c80bc8e4ab4670030af9686e798e94d85f5...bHVrYXR2Lm5ldDo4ODgw
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="Alwan Sports", Alwan Sports 4 ᴴᴰ
-https://py.dencreak.com/alwan_hd5.m3u8
+http://199.115.193.116:8080/live/90337864331136/90337864331136/409804.ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="Alwan Sports", Alwan Sports 5 ᴴᴰ
-https://py.dencreak.com/alwan_hd5.m3u8
+http://v3.anis.pp.ua:8080//live/test/test/6.ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="Alwan Sports", Alwan Sports 6 ᴴᴰ
-https://py.dencreak.com/alwan_hd6.m3u8
+http://v3.anis.pp.ua:8080//live/test/test/7.ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="Alwan Sports", Alwan Sports 7 ᴴᴰ
-https://s3.news-api-gen.lol//alwan_sport7/index.m3u8?remote=185.166.26.89&token=c807c68722a13e2bfe7316eb38cefa0b146241da-081e7ee3dc9033b0038c1d0c0d0aa0b6-1766195359-1766184559
+http://v3.anis.pp.ua:8080//live/test/test/8.ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="Alwan Sports", Alwan Sports WWE ᴴᴰ
 https://s3.news-api-gen.lol//alwan_wwe/tracks-v1a1/mono.m3u8?remote=185.166.26.89&token=ee43cf378544541c41df57ab998a795aebf2a577-dbe2cd80c44425f2cd773b5fd0209a55-1766195851-1766185051
@@ -9202,4 +9148,13 @@ http://stream02.vnet.am/HTB/mono.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" group-title="Grecce - یۆنان", РТР Планета Евро
 https://player.smotrim.ru/iframe/stream/live_id/4941?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="فیلمی دۆبلاژکراو", ڤینۆم 2021
+https://rashaba.com/upload2/videos/2026/02/U5rdpXwGBKaPcE4/av1/720/U5rdpXwGBKaPcE4_720_av1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="فیلمی دۆبلاژکراو", سێبەری تاریکی (جاکی چان)
+https://rashaba.com/upload2/videos/2026/01/Ffxcf9S3dY4ZPej/av1/1080/Ffxcf9S3dY4ZPej_1080_av1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="فیلمی دۆبلاژکراو", شمشێری جادوویی 
+https://rashaba.com/upload2/videos/2026/01/ey9QdtNbebgDkv7/av1/1080/ey9QdtNbebgDkv7_1080_av1.m3u8
 
