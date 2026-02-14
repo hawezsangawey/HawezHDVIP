@@ -1,39 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/9047de06-b906-44e6-8ea9-ebf07c18ea77.png" group-title="Kurdish - کوردی", NRT News ᴴᴰ
-https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="Kurdish - کوردی", NRT 2 ᴴᴰ
-http://arabitv5.com:8000/baseeeeeeemhh5/8uuMt7qa7eAF/33888
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/R00NyYPB/8df87373_007b_4805_b9aa_8e9bf31ef541.png" group-title="Kurdish - کوردی", NRT 4 ᴴᴰ
-https://live20.bozztv.com/giatv/giatv-nrt4stream/nrt4stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/0e972cde-fe9f-40c8-89b4-9f5de88f2900.png" group-title="Kurdish - کوردی", Kurdsat ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/TYw1FXtb/kurdsat_tv.jpg" group-title="Kurdish - کوردی", Kurdsat ᴴᴰ
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/0bfb976c-7d68-4988-a094-194e1c6ad4ae.png" group-title="Kurdish - کوردی", Kurdsat News ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/5N0yTMsC/images.jpg" group-title="Kurdish - کوردی", Kurdsat News ᴴᴰ
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/c01656c6-6492-4941-a4e6-8ff4afdb1024.png" group-title="Kurdish - کوردی", Rudaw ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/sDXxqRT7/images_(3).jpg" group-title="Kurdish - کوردی", NRT News ᴴᴰ
+https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/5N0yTMsQ/images_(1).jpg" group-title="Kurdish - کوردی", Rudaw ᴴᴰ
 https://hawezhd@svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/VL6vpcKr/images_(2).jpg" group-title="Kurdish - کوردی", AVA Media ᴴᴰ
+http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/3JRNVHtg/835134.jpg" group-title="Kurdish - کوردی", Channel 8 ᴴᴰ
+https://live.channel8.com/Channel8-Kurdish/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/c6e95d8b-3ca5-4f74-b27a-156ac625fa5a.png" group-title="Kurdish - کوردی", Kurdistan 24 ᴴᴰ
+https://hawezhd@d1x82nydcxndze.cloudfront.net:443/live/index_720p25.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/cbada311-dad3-4fbd-a0bd-a8afd6c158ed.png" group-title="Kurdish - کوردی", Payam TV ᴴᴰ
 https://5ab29cc78f681.streamlock.net:443/PayamTV/livestream/HawezHD.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/4b385e34-f1c2-4cfa-b308-d3609dde74b0.png" group-title="Kurdish - کوردی", AVA Media ᴴᴰ
-http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/9b469cf4-137a-4c08-b9a4-d815a700c189.png" group-title="Kurdish - کوردی", Channel 8 ᴴᴰ
-https://live.channel8.com/Channel8-Kurdish/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/fd070ac3-ff28-4eb5-abcb-60a849412d8a.png" group-title="Kurdish - کوردی", Speda ᴴᴰ
 http://arabitv5.com:8000/live/baseeeeeeemhh5/8uuMt7qa7eAF/33882.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/eb11fd8b-decf-4887-b6ed-166875779ee8.png" group-title="Kurdish - کوردی", Speda Drama ᴴᴰ
 http://lukatv.net:8880/live/551632710530/140777688297/550780.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/c6e95d8b-3ca5-4f74-b27a-156ac625fa5a.png" group-title="Kurdish - کوردی", Kurdistan 24 ᴴᴰ
-https://hawezhd@d1x82nydcxndze.cloudfront.net:443/live/index_720p25.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/84676415-7478-48a4-840e-20e8011e4c5d.png" group-title="Kurdish - کوردی", Gali Kurdistan ᴴᴰ
 https://live.host247.net/gk/gksat/playlist.m3u8
@@ -55,6 +49,12 @@ http://shnatv.ddns.net:1935/live/shnatv/HawezHD.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/27b5edc6-48d7-4bf9-965b-1b52ffeff0a4.png" group-title="Kurdish - کوردی", Shna Quran ᴴᴰ
 http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="Kurdish - کوردی", NRT 2 ᴴᴰ
+http://arabitv5.com:8000/baseeeeeeemhh5/8uuMt7qa7eAF/33888
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/R00NyYPB/8df87373_007b_4805_b9aa_8e9bf31ef541.png" group-title="Kurdish - کوردی", NRT 4 ᴴᴰ
+https://live20.bozztv.com/giatv/giatv-nrt4stream/nrt4stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/7hYjDgTR/bec87879_dc44_4a64_901a_a1c21264f421.png" group-title="Kurdish - کوردی", Sada TV ᴴᴰ
 http://baskhd.ddns.net:40/live/sadatv/HawezHD.m3u8
@@ -9158,3 +9158,9 @@ https://rashaba.com/upload2/videos/2026/01/Ffxcf9S3dY4ZPej/av1/1080/Ffxcf9S3dY4Z
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="فیلمی دۆبلاژکراو", شمشێری جادوویی 
 https://rashaba.com/upload2/videos/2026/01/ey9QdtNbebgDkv7/av1/1080/ey9QdtNbebgDkv7_1080_av1.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="فیلمی ژێرنووسی کوردی", Zotopia 2 (Kurdish Sub)
+https://krdline.shafilm.vip/ShaSorani/Movie/Zootopia.2.2025.Shafilm.mp4
+
+
+#EXTINF:-1 tvg-id="Zootopia2" tvg-name="Zootopia 2" tvg-logo="https://image.tmdb.org/t/p/w500/963f4569f1043323.jpg" group-title="Animation Movies" type="vod",Zootopia 2 (2025) 
+https://krdline.shafilm.vip/ShaSorani/Movie/Zootopia.2.2025.Shafilm.mp4
