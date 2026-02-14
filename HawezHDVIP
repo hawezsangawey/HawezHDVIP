@@ -21,13 +21,13 @@ https://live.channel8.com/Channel8-Kurdish/index.m3u8
 https://hawezhd@d1x82nydcxndze.cloudfront.net:443/live/index_720p25.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/cbada311-dad3-4fbd-a0bd-a8afd6c158ed.png" group-title="Kurdish - کوردی", Payam TV ᴴᴰ
-https://5ab29cc78f681.streamlock.net:443/PayamTV/livestream/HawezHD.m3u8
+https://media2.streambrothers.com:1936/8218/8218/chunklist_w1560695880.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/fd070ac3-ff28-4eb5-abcb-60a849412d8a.png" group-title="Kurdish - کوردی", Speda ᴴᴰ
-http://arabitv5.com:8000/live/baseeeeeeemhh5/8uuMt7qa7eAF/33882.ts
+http://109.123.245.192/Spedatv/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/eb11fd8b-decf-4887-b6ed-166875779ee8.png" group-title="Kurdish - کوردی", Speda Drama ᴴᴰ
-http://lukatv.net:8880/live/551632710530/140777688297/550780.ts
+http://109.123.245.192/Spedadrama/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/84676415-7478-48a4-840e-20e8011e4c5d.png" group-title="Kurdish - کوردی", Gali Kurdistan ᴴᴰ
 https://live.host247.net/gk/gksat/playlist.m3u8
@@ -41,6 +41,18 @@ https://app-live.org/live/3268334b/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/31810054-8737-4187-87f1-68a91a537daf.png" group-title="Kurdish - کوردی", Khak ᴴᴰ
 http://bblserver.ddns.net:1935/stream/khakhd/hawezhd.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurdish - کوردی", Newline 1 ᴴᴰ
+http://109.123.245.192/Newline1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurdish - کوردی", Newline 2 ᴴᴰ
+http://109.123.245.192/Newline2/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurdish - کوردی", Zed TV ᴴᴰ
+http://109.123.245.192/Zedtv/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurdish - کوردی", Zed TV Plus ᴴᴰ
+http://109.123.245.192/Zedplus/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/0895ab2b-4ff0-4211-b555-0d09453c9c48.png" group-title="Kurdish - کوردی", Halabja ᴴᴰ
 http://halabjatv.ddns.net:40/live/halabjatv/HawezHD.m3u8
 
@@ -51,7 +63,7 @@ http://shnatv.ddns.net:1935/live/shnatv/HawezHD.m3u8
 http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="Kurdish - کوردی", NRT 2 ᴴᴰ
-http://arabitv5.com:8000/baseeeeeeemhh5/8uuMt7qa7eAF/33888
+https://ca-rt.onetv.app/NRT2/index-0.m3u8?token=onetv202
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/R00NyYPB/8df87373_007b_4805_b9aa_8e9bf31ef541.png" group-title="Kurdish - کوردی", NRT 4 ᴴᴰ
 https://live20.bozztv.com/giatv/giatv-nrt4stream/nrt4stream/chunks.m3u8
@@ -596,8 +608,8 @@ https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kfU3d1n.jpeg" group-title="SPORTS - وەرزش", LD Sport Chek ᴴᴰ
 http://hawez@142.132.133.190:1935/live/Sportchek-ld-HawezHD/HawezHD.m3u8?checkedby:hawezHD
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kfU3d1n.jpeg" group-title="SPORTS - وەرزش", AVA Sport ᴴᴰ
-http://2.57.214.72:2095/Arjc0WCSzNRt_180488/KILxRwQfON9tBs/358221?token=yHXUHH.X.y.X.ydHyzzfzHy.X.y.IQ.ts.21ad7b2f58ad4c016dbbdbbe596adbc69e11cce4b0546199b4bfd6d87b4716b5...sh
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/3d1n.jpeg" group-title="SPORTS - وەرزش", AVA Sport ᴴᴰ
+http://109.123.245.192/Avasport11/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kfU3d1n.jpeg" group-title="SPORTS - وەرزش", FIFA Plus ᴴᴰ
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
@@ -2178,13 +2190,13 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&checke
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/XvMj37c9/48baf2c5_d0b7_4989_9ff1_5dac74ad87a9.png" group-title="beIN SPORTS (Auto)", beIN SPORTS 1 ᴴᴰ
-http://45.155.226.204:80/375509625021/697b02f628340.16012/329100?token=yaaczyd.faUaf.X.bUda.ydHbayXycy.X.y.IQ.ts.baf86d40475f002ce877cf1531393316de3f1cd6b9b8ce2c745a8d1fb9f751b9...bHVrYXR2Lm5ldDo4ODgw
+http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/196157.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/wjRqSsJW/917ab864_9988_4298_86ac_947b3c61de28.png" group-title="beIN SPORTS (Auto)", beIN SPORTS 2 ᴴᴰ
-http://45.155.90.37:80/375509625021/697b02f628340.16012/358250?token=yaaczyd.yzXyUU.X.UfXdUy.ydHbayXydX.X.y.IQ.ts.d21bce39cc6e6d9eaa0777fc75c5ee399524e8e81855e1ff8ac2e25366b9b3d7...bHVrYXR2Lm5ldDo4ODgw
+http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/67339.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/bwSyK2bm/a504db3d_4bbd_41a7_ad23_ead412171f05.png" group-title="beIN SPORTS (Auto)", beIN SPORTS 3 ᴴᴰ
-http://45.155.90.37:80/375509625021/697b02f628340.16012/157664?token=yaaczyd.UbdXUc.X.fzzzHUz.ydHbayXyzd.X.y.IQ.ts.e27f3dcebc31c2133066925682705dc108666ec6de0ab3cda42a8e589533af4d...bHVrYXR2Lm5ldDo4ODgw
+http://ibo.lynxiptv.com/live/760495572073/4ZWyUoO4zA/196158.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/Vk0f3bM4/2059f949_a5b6_406a_954f_7f8f14c3c152.png" group-title="beIN SPORTS (Auto)", beIN SPORTS 4 ᴴᴰ
 http://45.155.90.37:80/375509625021/697b02f628340.16012/157662?token=yaaczyd.daHcbz.X.zycbyf.ydHbayXayU.X.y.IQ.ts.f3bb322d9be0f2a8897afc0ea573b654be7572c959ea670cd061d9286a4eb163...bHVrYXR2Lm5ldDo4ODgw
@@ -9161,6 +9173,3 @@ https://rashaba.com/upload2/videos/2026/01/ey9QdtNbebgDkv7/av1/1080/ey9QdtNbebgD
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="فیلمی ژێرنووسی کوردی", Zotopia 2 (Kurdish Sub)
 https://krdline.shafilm.vip/ShaSorani/Movie/Zootopia.2.2025.Shafilm.mp4
 
-
-#EXTINF:-1 tvg-id="Zootopia2" tvg-name="Zootopia 2" tvg-logo="https://image.tmdb.org/t/p/w500/963f4569f1043323.jpg" group-title="Animation Movies" type="vod",Zootopia 2 (2025) 
-https://krdline.shafilm.vip/ShaSorani/Movie/Zootopia.2.2025.Shafilm.mp4
